@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I refactored code on an index.html page and on associated style sheet. The code was refactored in the following ways:
+In this project, I refactored code on an index.html page and on its associated style sheet. The code was refactored in the following ways:
 
 * Added a concise, descriptive title element
 * Converted non-semantic elements into semantic elements to improve code readability
@@ -30,7 +30,6 @@ This project requires the following files and folders:
 ## Index.html Screenshot
 
 ![Github Logo](/assets/images/screen-capture.png)
-Format: ![Alt Text] ()
 
 
 
