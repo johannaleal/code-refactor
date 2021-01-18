@@ -29,7 +29,7 @@ This project requires the following files and folders:
 
 ## Index.html Screenshot
 
-![Github Logo](/assets/images/screen-capture.png)
+![Github Logo](/assets/images/screen-shot.png)
 
 
 ## Deployed Website
