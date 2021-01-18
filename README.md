@@ -34,4 +34,4 @@ This project requires the following files and folders:
 
 ## Deployed Website
 
-[Code Refactor Website](https://johannaleal.github.io/code-refactor/).
+[Code Refactor Website](https://johannaleal.github.io/code-refactor/)
