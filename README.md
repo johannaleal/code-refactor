@@ -30,8 +30,8 @@ This project requires the following files and folders:
 
 ## Index.html Screenshot
 
-![Github Logo](/assets/images/screen-shot.png)
+![Index Page Screenshot](/assets/images/screen-shot.png)
 
 ## Deployed Website
 
-This website was built using [GitHub Pages](https://johannaleal.github.io/code-refactor/).
+[Code Refactor Website](https://johannaleal.github.io/code-refactor/).
