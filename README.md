@@ -14,6 +14,7 @@ In this project, I refactored code on an index.html page and on its associated s
 ## Installation
 
 This project requires the following files and folders:
+
 * index.html
 * assets folder
 * assets/css folder
@@ -31,8 +32,6 @@ This project requires the following files and folders:
 
 ![Github Logo](/assets/images/screen-shot.png)
 
-
 ## Deployed Website
-https://johannaleal.github.io/code-refactor/
 
-
+This website was built using [GitHub Pages](https://johannaleal.github.io/code-refactor/).
