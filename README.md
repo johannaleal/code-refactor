@@ -1,6 +1,6 @@
 # code-refactor
 
-## Introduction
+## Description
 
 In this project, I refactored code on an index.html page and on its associated style sheet. The code was refactored in the following ways:
 
@@ -32,5 +32,7 @@ This project requires the following files and folders:
 ![Github Logo](/assets/images/screen-capture.png)
 
 
+## Deployed Website
+https://johannaleal.github.io/code-refactor/
 
 
